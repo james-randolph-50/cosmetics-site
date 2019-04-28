@@ -1,0 +1,7 @@
+.eslintrc.json
+node_modules/
+.DS_Store
+
+# Dist files
+.local_server/css/*.css*
+.local_server/js/*.js*
